@@ -1,990 +1,982 @@
 [
   {
       "name": "Republic of Moldova",
-      "id": "MDA"
+      "id": "MD"
   },
   {
       "name": "United States of America",
-      "id": "USA"
+      "id": "US"
   },
   {
       "name": "Department of Mayotte",
-      "id": "MYT"
+      "id": "YT"
   },
   {
       "name": "Republic of Nauru",
-      "id": "NRU"
+      "id": "NR"
   },
   {
       "name": "Republic of Mozambique",
-      "id": "MOZ"
+      "id": "MZ"
   },
   {
       "name": "Federative Republic of Brazil",
-      "id": "BRA"
+      "id": "BR"
   },
   {
       "name": "Republic of Cabo Verde",
-      "id": "CPV"
+      "id": "CV"
   },
   {
       "name": "Republic of Equatorial Guinea",
-      "id": "GNQ"
+      "id": "GQ"
   },
   {
       "name": "Republic of Albania",
-      "id": "ALB"
+      "id": "AL"
   },
   {
       "name": "Virgin Islands of the United States",
-      "id": "VIR"
+      "id": "VI"
   },
   {
       "name": "Niue",
-      "id": "NIU"
+      "id": "NU"
   },
   {
       "name": "Republic of Palau",
-      "id": "PLW"
+      "id": "PW"
   },
   {
       "name": "Federal Republic of Nigeria",
-      "id": "NGA"
+      "id": "NG"
   },
   {
       "name": "Virgin Islands",
-      "id": "VGB"
+      "id": "VG"
   },
   {
       "name": "Republic of the Gambia",
-      "id": "GMB"
+      "id": "GM"
   },
   {
       "name": "Federal Republic of Somalia",
-      "id": "SOM"
+      "id": "SO"
   },
   {
       "name": "Republic of Yemen",
-      "id": "YEM"
+      "id": "YE"
   },
   {
       "name": "Malaysia",
-      "id": "MYS"
+      "id": "MY"
   },
   {
       "name": "Commonwealth of Dominica",
-      "id": "DMA"
+      "id": "DM"
   },
   {
       "name": "United Kingdom of Great Britain and Northern Ireland",
-      "id": "GBR"
+      "id": "GB"
   },
   {
       "name": "Republic of Madagascar",
-      "id": "MDG"
+      "id": "MG"
   },
   {
       "name": "Sahrawi Arab Democratic Republic",
-      "id": "ESH"
+      "id": "EH"
   },
   {
       "name": "Republic of Cyprus",
-      "id": "CYP"
+      "id": "CY"
   },
   {
       "name": "Antigua and Barbuda",
-      "id": "ATG"
+      "id": "AG"
   },
   {
       "name": "Republic of Ireland",
-      "id": "IRL"
+      "id": "IE"
   },
   {
       "name": "Republic of Paraguay",
-      "id": "PRY"
+      "id": "PY"
   },
   {
       "name": "Democratic Socialist Republic of Sri Lanka",
-      "id": "LKA"
+      "id": "LK"
   },
   {
       "name": "Republic of South Africa",
-      "id": "ZAF"
+      "id": "ZA"
   },
   {
       "name": "State of Kuwait",
-      "id": "KWT"
+      "id": "KW"
   },
   {
       "name": "People's Democratic Republic of Algeria",
-      "id": "DZA"
+      "id": "DZ"
   },
   {
       "name": "Republic of Croatia",
-      "id": "HRV"
+      "id": "HR"
   },
   {
       "name": "Martinique",
-      "id": "MTQ"
+      "id": "MQ"
   },
   {
       "name": "Republic of Sierra Leone",
-      "id": "SLE"
+      "id": "SL"
   },
   {
       "name": "Commonwealth of the Northern Mariana Islands",
-      "id": "MNP"
+      "id": "MP"
   },
   {
       "name": "Republic of Rwanda",
-      "id": "RWA"
-  },
-  {
-      "name": "Syrian Arab Republic",
-      "id": "SYR"
+      "id": "RW"
   },
   {
       "name": "Saint Vincent and the Grenadines",
-      "id": "VCT"
+      "id": "VC"
   },
   {
       "name": "Republic of Kosovo",
-      "id": "UNK"
+      "id": "XK"
   },
   {
       "name": "Saint Lucia",
-      "id": "LCA"
+      "id": "LC"
   },
   {
       "name": "Republic of Honduras",
-      "id": "HND"
+      "id": "HN"
   },
   {
       "name": "Hashemite Kingdom of Jordan",
-      "id": "JOR"
+      "id": "JO"
   },
   {
       "name": "Tuvalu",
-      "id": "TUV"
+      "id": "TV"
   },
   {
       "name": "Federal Democratic Republic of Nepal",
-      "id": "NPL"
+      "id": "NP"
   },
   {
       "name": "Republic of Liberia",
-      "id": "LBR"
+      "id": "LR"
   },
   {
       "name": "Heard Island and McDonald Islands",
-      "id": "HMD"
+      "id": "HM"
   },
   {
       "name": "Republic of Austria",
-      "id": "AUT"
+      "id": "AT"
   },
   {
       "name": "Bailiwick of Guernsey",
-      "id": "GGY"
+      "id": "GG"
   },
   {
       "name": "Central African Republic",
-      "id": "CAF"
+      "id": "CF"
   },
   {
       "name": "Islamic Republic of Mauritania",
-      "id": "MRT"
+      "id": "MR"
   },
   {
       "name": "Republic of Djibouti",
-      "id": "DJI"
+      "id": "DJ"
   },
   {
       "name": "Republic of Fiji",
-      "id": "FJI"
+      "id": "FJ"
   },
   {
       "name": "Kingdom of Norway",
-      "id": "NOR"
+      "id": "NO"
   },
   {
       "name": "Republic of Latvia",
-      "id": "LVA"
+      "id": "LV"
   },
   {
       "name": "Falkland Islands",
-      "id": "FLK"
+      "id": "FK"
   },
   {
       "name": "Republic of Kazakhstan",
-      "id": "KAZ"
+      "id": "KZ"
   },
   {
       "name": "Åland Islands",
-      "id": "ALA"
+      "id": "AX"
   },
   {
       "name": "Turkmenistan",
-      "id": "TKM"
+      "id": "TM"
   },
   {
       "name": "Territory of the Cocos (Keeling) Islands",
-      "id": "CCK"
+      "id": "CC"
   },
   {
       "name": "Republic of Bulgaria",
-      "id": "BGR"
+      "id": "BG"
   },
   {
       "name": "Tokelau",
-      "id": "TKL"
+      "id": "TK"
   },
   {
       "name": "New Caledonia",
-      "id": "NCL"
+      "id": "NC"
   },
   {
       "name": "Barbados",
-      "id": "BRB"
+      "id": "BB"
   },
   {
       "name": "Democratic Republic of São Tomé and Príncipe",
-      "id": "STP"
+      "id": "ST"
   },
   {
       "name": "Antarctica",
-      "id": "ATA"
+      "id": "AQ"
   },
   {
       "name": "Nation of Brunei, Abode of Peace",
-      "id": "BRN"
+      "id": "BN"
   },
   {
       "name": "Kingdom of Bhutan",
-      "id": "BTN"
+      "id": "BT"
   },
   {
       "name": "Republic of Cameroon",
-      "id": "CMR"
+      "id": "CM"
   },
   {
       "name": "Argentine Republic",
-      "id": "ARG"
+      "id": "AR"
   },
   {
       "name": "Republic of Azerbaijan",
-      "id": "AZE"
+      "id": "AZ"
   },
   {
       "name": "United Mexican States",
-      "id": "MEX"
+      "id": "MX"
   },
   {
       "name": "Kingdom of Morocco",
-      "id": "MAR"
+      "id": "MA"
   },
   {
       "name": "Republic of Guatemala",
-      "id": "GTM"
+      "id": "GT"
   },
   {
       "name": "Republic of Kenya",
-      "id": "KEN"
+      "id": "KE"
   },
   {
       "name": "Republic of Malta",
-      "id": "MLT"
+      "id": "MT"
   },
   {
       "name": "Czech Republic",
-      "id": "CZE"
+      "id": "CZ"
   },
   {
       "name": "Gibraltar",
-      "id": "GIB"
+      "id": "GI"
   },
   {
       "name": "Aruba",
-      "id": "ABW"
+      "id": "AW"
   },
   {
       "name": "Collectivity of Saint Barthélemy",
-      "id": "BLM"
+      "id": "BL"
   },
   {
       "name": "Principality of Monaco",
-      "id": "MCO"
+      "id": "MC"
   },
   {
       "name": "United Arab Emirates",
-      "id": "ARE"
+      "id": "AE"
   },
   {
       "name": "Republic of South Sudan",
-      "id": "SSD"
+      "id": "SS"
   },
   {
       "name": "Commonwealth of Puerto Rico",
-      "id": "PRI"
+      "id": "PR"
   },
   {
       "name": "Republic of El Salvador",
-      "id": "SLV"
+      "id": "SV"
   },
   {
       "name": "French Republic",
-      "id": "FRA"
+      "id": "FR"
   },
   {
       "name": "Republic of Niger",
-      "id": "NER"
+      "id": "NE"
   },
   {
       "name": "Republic of Côte d'Ivoire",
-      "id": "CIV"
+      "id": "CI"
   },
   {
       "name": "South Georgia and the South Sandwich Islands",
-      "id": "SGS"
+      "id": "GS"
   },
   {
       "name": "Republic of Botswana",
-      "id": "BWA"
+      "id": "BW"
   },
   {
       "name": "British Indian Ocean Territory",
-      "id": "IOT"
+      "id": "IO"
   },
   {
       "name": "Republic of Uzbekistan",
-      "id": "UZB"
+      "id": "UZ"
   },
   {
       "name": "Tunisian Republic",
-      "id": "TUN"
+      "id": "TN"
   },
   {
       "name": "Hong Kong Special Administrative Region of the People's Republic of China",
-      "id": "HKG"
+      "id": "HK"
   },
   {
       "name": "Republic of North Macedonia",
-      "id": "MKD"
+      "id": "MK"
   },
   {
       "name": "Republic of Suriname",
-      "id": "SUR"
+      "id": "SR"
   },
   {
       "name": "Kingdom of Belgium",
-      "id": "BEL"
+      "id": "BE"
   },
   {
       "name": "American Samoa",
-      "id": "ASM"
+      "id": "AS"
   },
   {
       "name": "Solomon Islands",
-      "id": "SLB"
+      "id": "SB"
   },
   {
       "name": "Ukraine",
-      "id": "UKR"
+      "id": "UA"
   },
   {
       "name": "Republic of Finland",
-      "id": "FIN"
+      "id": "FI"
   },
   {
       "name": "Burkina Faso",
-      "id": "BFA"
+      "id": "BF"
   },
   {
       "name": "Bosnia and Herzegovina",
-      "id": "BIH"
-  },
-  {
-      "name": "Republic of Cuba",
-      "id": "CUB"
+      "id": "BA"
   },
   {
       "name": "State of Eritrea",
-      "id": "ERI"
+      "id": "ER"
   },
   {
       "name": "Slovak Republic",
-      "id": "SVK"
+      "id": "SK"
   },
   {
       "name": "Republic of Lithuania",
-      "id": "LTU"
+      "id": "LT"
   },
   {
       "name": "Saint Martin",
-      "id": "MAF"
+      "id": "MF"
   },
   {
       "name": "Pitcairn Group of Islands",
-      "id": "PCN"
+      "id": "PN"
   },
   {
       "name": "Republic of Guinea-Bissau",
-      "id": "GNB"
+      "id": "GW"
   },
   {
       "name": "Montserrat",
-      "id": "MSR"
+      "id": "MS"
   },
   {
       "name": "Republic of Turkey",
-      "id": "TUR"
+      "id": "TR"
   },
   {
       "name": "Republic of the Philippines",
-      "id": "PHL"
+      "id": "PH"
   },
   {
       "name": "Republic of Vanuatu",
-      "id": "VUT"
+      "id": "VU"
   },
   {
       "name": "Plurinational State of Bolivia",
-      "id": "BOL"
+      "id": "BO"
   },
   {
       "name": "Federation of Saint Christopher and Nevis",
-      "id": "KNA"
+      "id": "KN"
   },
   {
       "name": "Romania",
-      "id": "ROU"
+      "id": "RO"
   },
   {
       "name": "Kingdom of Cambodia",
-      "id": "KHM"
+      "id": "KH"
   },
   {
       "name": "Republic of Zimbabwe",
-      "id": "ZWE"
+      "id": "ZW"
   },
   {
       "name": "Bailiwick of Jersey",
-      "id": "JEY"
+      "id": "JE"
   },
   {
       "name": "Kyrgyz Republic",
-      "id": "KGZ"
+      "id": "KG"
   },
   {
       "name": "Bonaire, Sint Eustatius and Saba",
-      "id": "BES"
+      "id": "BQ"
   },
   {
       "name": "Co-operative Republic of Guyana",
-      "id": "GUY"
+      "id": "GY"
   },
   {
       "name": "United States Minor Outlying Islands",
-      "id": "UMI"
+      "id": "UM"
   },
   {
       "name": "Republic of Armenia",
-      "id": "ARM"
+      "id": "AM"
   },
   {
       "name": "Lebanese Republic",
-      "id": "LBN"
+      "id": "LB"
   },
   {
       "name": "Montenegro",
-      "id": "MNE"
+      "id": "ME"
   },
   {
       "name": "Greenland",
-      "id": "GRL"
+      "id": "GL"
   },
   {
       "name": "Independent State of Papua New Guinea",
-      "id": "PNG"
+      "id": "PG"
   },
   {
       "name": "Republic of Zambia",
-      "id": "ZMB"
+      "id": "ZM"
   },
   {
       "name": "Republic of Trinidad and Tobago",
-      "id": "TTO"
+      "id": "TT"
   },
   {
       "name": "Territory of the French Southern and Antarctic Lands",
-      "id": "ATF"
+      "id": "TF"
   },
   {
       "name": "Republic of Peru",
-      "id": "PER"
+      "id": "PE"
   },
   {
       "name": "Kingdom of Sweden",
-      "id": "SWE"
+      "id": "SE"
   },
   {
       "name": "Republic of the Sudan",
-      "id": "SDN"
+      "id": "SD"
   },
   {
       "name": "Saint Pierre and Miquelon",
-      "id": "SPM"
+      "id": "PM"
   },
   {
       "name": "Sultanate of Oman",
-      "id": "OMN"
+      "id": "OM"
   },
   {
       "name": "Republic of India",
-      "id": "IND"
+      "id": "IN"
   },
   {
       "name": "Republic of China (Taiwan)",
-      "id": "TWN"
+      "id": "TW"
   },
   {
       "name": "Mongolia",
-      "id": "MNG"
+      "id": "MN"
   },
   {
       "name": "Republic of Senegal",
-      "id": "SEN"
+      "id": "SN"
   },
   {
       "name": "United Republic of Tanzania",
-      "id": "TZA"
+      "id": "TZ"
   },
   {
       "name": "Canada",
-      "id": "CAN"
+      "id": "CA"
   },
   {
       "name": "Republic of Costa Rica",
-      "id": "CRI"
+      "id": "CR"
   },
   {
       "name": "People's Republic of China",
-      "id": "CHN"
+      "id": "CN"
   },
   {
       "name": "Republic of Colombia",
-      "id": "COL"
+      "id": "CO"
   },
   {
       "name": "Republic of the Union of Myanmar",
-      "id": "MMR"
+      "id": "MM"
   },
   {
       "name": "Cayman Islands",
-      "id": "CYM"
+      "id": "KY"
   },
   {
       "name": "Bouvet Island",
-      "id": "BVT"
+      "id": "BV"
   },
   {
       "name": "Republic of Belarus",
-      "id": "BLR"
+      "id": "BY"
   },
   {
       "name": "Portuguese Republic",
-      "id": "PRT"
+      "id": "PT"
   },
   {
       "name": "Kingdom of Eswatini",
-      "id": "SWZ"
+      "id": "SZ"
   },
   {
       "name": "Republic of Poland",
-      "id": "POL"
+      "id": "PL"
   },
   {
       "name": "Swiss Confederation",
-      "id": "CHE"
+      "id": "CH"
   },
   {
       "name": "Republic of the Congo",
-      "id": "COG"
+      "id": "CG"
   },
   {
       "name": "Bolivarian Republic of Venezuela",
-      "id": "VEN"
+      "id": "VE"
   },
   {
       "name": "Republic of Panama",
-      "id": "PAN"
+      "id": "PA"
   },
   {
       "name": "Kingdom of the Netherlands",
-      "id": "NLD"
+      "id": "NL"
   },
   {
       "name": "Independent State of Samoa",
-      "id": "WSM"
+      "id": "WS"
   },
   {
       "name": "Kingdom of Denmark",
-      "id": "DNK"
+      "id": "DK"
   },
   {
       "name": "Grand Duchy of Luxembourg",
-      "id": "LUX"
+      "id": "LU"
   },
   {
       "name": "Faroe Islands",
-      "id": "FRO"
+      "id": "FO"
   },
   {
       "name": "Republic of Slovenia",
-      "id": "SVN"
+      "id": "SI"
   },
   {
       "name": "Togolese Republic",
-      "id": "TGO"
+      "id": "TG"
   },
   {
       "name": "Kingdom of Thailand",
-      "id": "THA"
+      "id": "TH"
   },
   {
       "name": "Territory of the Wallis and Futuna Islands",
-      "id": "WLF"
+      "id": "WF"
   },
   {
       "name": "Commonwealth of the Bahamas",
-      "id": "BHS"
+      "id": "BS"
   },
   {
       "name": "Kingdom of Tonga",
-      "id": "TON"
+      "id": "TO"
   },
   {
       "name": "Hellenic Republic",
-      "id": "GRC"
+      "id": "GR"
   },
   {
       "name": "Republic of San Marino",
-      "id": "SMR"
+      "id": "SM"
   },
   {
       "name": "Réunion Island",
-      "id": "REU"
+      "id": "RE"
   },
   {
       "name": "Vatican City State",
-      "id": "VAT"
+      "id": "VA"
   },
   {
       "name": "Republic of Burundi",
-      "id": "BDI"
+      "id": "BI"
   },
   {
       "name": "Kingdom of Bahrain",
-      "id": "BHR"
+      "id": "BH"
   },
   {
       "name": "Republic of the Marshall Islands",
-      "id": "MHL"
+      "id": "MH"
   },
   {
       "name": "Turks and Caicos Islands",
-      "id": "TCA"
+      "id": "TC"
   },
   {
       "name": "Isle of Man",
-      "id": "IMN"
+      "id": "IM"
   },
   {
       "name": "Republic of Haiti",
-      "id": "HTI"
+      "id": "HT"
   },
   {
       "name": "Islamic Republic of Afghanistan",
-      "id": "AFG"
+      "id": "AF"
   },
   {
       "name": "State of Israel",
-      "id": "ISR"
+      "id": "IL"
   },
   {
       "name": "State of Libya",
-      "id": "LBY"
+      "id": "LY"
   },
   {
       "name": "Oriental Republic of Uruguay",
-      "id": "URY"
+      "id": "UY"
   },
   {
       "name": "Territory of Norfolk Island",
-      "id": "NFK"
+      "id": "NF"
   },
   {
       "name": "Republic of Nicaragua",
-      "id": "NIC"
+      "id": "NI"
   },
   {
       "name": "Cook Islands",
-      "id": "COK"
+      "id": "CK"
   },
   {
       "name": "Lao People's Democratic Republic",
-      "id": "LAO"
+      "id": "LA"
   },
   {
       "name": "Territory of Christmas Island",
-      "id": "CXR"
+      "id": "CX"
   },
   {
       "name": "Saint Helena, Ascension and Tristan da Cunha",
-      "id": "SHN"
+      "id": "SH"
   },
   {
       "name": "Anguilla",
-      "id": "AIA"
+      "id": "AI"
   },
   {
       "name": "Federated States of Micronesia",
-      "id": "FSM"
+      "id": "FM"
   },
   {
       "name": "Federal Republic of Germany",
-      "id": "DEU"
+      "id": "DE"
   },
   {
       "name": "Guam",
-      "id": "GUM"
+      "id": "GU"
   },
   {
       "name": "Independent and Sovereign Republic of Kiribati",
-      "id": "KIR"
+      "id": "KI"
   },
   {
       "name": "Sint Maarten",
-      "id": "SXM"
+      "id": "SX"
   },
   {
       "name": "Kingdom of Spain",
-      "id": "ESP"
+      "id": "ES"
   },
   {
       "name": "Jamaica",
-      "id": "JAM"
+      "id": "JM"
   },
   {
       "name": "State of Palestine",
-      "id": "PSE"
+      "id": "PS"
   },
   {
       "name": "Guiana",
-      "id": "GUF"
+      "id": "GF"
   },
   {
       "name": "Principality of Andorra",
-      "id": "AND"
+      "id": "AD"
   },
   {
       "name": "Republic of Chile",
-      "id": "CHL"
+      "id": "CL"
   },
   {
       "name": "Kingdom of Lesotho",
-      "id": "LSO"
+      "id": "LS"
   },
   {
       "name": "Commonwealth of Australia",
-      "id": "AUS"
+      "id": "AU"
   },
   {
       "name": "Grenada",
-      "id": "GRD"
+      "id": "GD"
   },
   {
       "name": "Republic of Ghana",
-      "id": "GHA"
+      "id": "GH"
   },
   {
       "name": "Republic of Seychelles",
-      "id": "SYC"
+      "id": "SC"
   },
   {
       "name": "Republic of Angola",
-      "id": "AGO"
+      "id": "AO"
   },
   {
       "name": "Bermuda",
-      "id": "BMU"
+      "id": "BM"
   },
   {
       "name": "Islamic Republic of Pakistan",
-      "id": "PAK"
+      "id": "PK"
   },
   {
       "name": "Republic of Mali",
-      "id": "MLI"
+      "id": "ML"
   },
   {
       "name": "Kingdom of Saudi Arabia",
-      "id": "SAU"
+      "id": "SA"
   },
   {
       "name": "Country of Curaçao",
-      "id": "CUW"
+      "id": "CW"
   },
   {
       "name": "Republic of Korea",
-      "id": "KOR"
+      "id": "KR"
   },
   {
       "name": "Federal Democratic Republic of Ethiopia",
-      "id": "ETH"
+      "id": "ET"
   },
   {
       "name": "Guadeloupe",
-      "id": "GLP"
+      "id": "GP"
   },
   {
       "name": "People's Republic of Bangladesh",
-      "id": "BGD"
+      "id": "BD"
   },
   {
       "name": "New Zealand",
-      "id": "NZL"
+      "id": "NZ"
   },
   {
       "name": "Union of the Comoros",
-      "id": "COM"
+      "id": "KM"
   },
   {
       "name": "Belize",
-      "id": "BLZ"
+      "id": "BZ"
   },
   {
       "name": "Republic of Uganda",
-      "id": "UGA"
+      "id": "UG"
   },
   {
       "name": "Republic of Singapore",
-      "id": "SGP"
+      "id": "SG"
   },
   {
       "name": "Principality of Liechtenstein",
-      "id": "LIE"
+      "id": "LI"
   },
   {
       "name": "Hungary",
-      "id": "HUN"
+      "id": "HU"
   },
   {
       "name": "Iceland",
-      "id": "ISL"
+      "id": "IS"
   },
   {
       "name": "Republic of Tajikistan",
-      "id": "TJK"
+      "id": "TJ"
   },
   {
       "name": "Republic of Namibia",
-      "id": "NAM"
+      "id": "NA"
   },
   {
       "name": "Democratic Republic of Timor-Leste",
-      "id": "TLS"
+      "id": "TL"
   },
   {
       "name": "Arab Republic of Egypt",
-      "id": "EGY"
+      "id": "EG"
   },
   {
       "name": "Republic of Serbia",
-      "id": "SRB"
+      "id": "RS"
   },
   {
       "name": "Republic of Mauritius",
-      "id": "MUS"
+      "id": "MU"
   },
   {
       "name": "Macao Special Administrative Region of the People's Republic of China",
-      "id": "MAC"
+      "id": "MO"
   },
   {
       "name": "French Polynesia",
-      "id": "PYF"
+      "id": "PF"
   },
   {
       "name": "Republic of the Maldives",
-      "id": "MDV"
+      "id": "MV"
   },
   {
       "name": "Republic of Indonesia",
-      "id": "IDN"
+      "id": "ID"
   },
   {
       "name": "Democratic Republic of the Congo",
-      "id": "COD"
+      "id": "CD"
   },
   {
       "name": "Republic of Estonia",
-      "id": "EST"
+      "id": "EE"
   },
   {
       "name": "Socialist Republic of Vietnam",
-      "id": "VNM"
+      "id": "VN"
   },
   {
       "name": "Italian Republic",
-      "id": "ITA"
+      "id": "IT"
   },
   {
       "name": "Republic of Guinea",
-      "id": "GIN"
+      "id": "GN"
   },
   {
       "name": "Republic of Chad",
-      "id": "TCD"
+      "id": "TD"
   },
   {
       "name": "Republic of Ecuador",
-      "id": "ECU"
+      "id": "EC"
   },
   {
       "name": "Georgia",
-      "id": "GEO"
+      "id": "GE"
   },
   {
       "name": "Republic of Malawi",
-      "id": "MWI"
+      "id": "MW"
   },
   {
       "name": "Republic of Iraq",
-      "id": "IRQ"
+      "id": "IQ"
   },
   {
       "name": "Svalbard og Jan Mayen",
-      "id": "SJM"
+      "id": "SJ"
   },
   {
       "name": "Republic of Benin",
-      "id": "BEN"
+      "id": "BJ"
   },
   {
       "name": "Japan",
-      "id": "JPN"
+      "id": "JP"
   },
   {
       "name": "Dominican Republic",
-      "id": "DOM"
+      "id": "DO"
   },
   {
       "name": "State of Qatar",
-      "id": "QAT"
+      "id": "QA"
   },
   {
       "name": "Gabonese Republic",
-      "id": "GAB"
+      "id": "GA"
   }
 ]
